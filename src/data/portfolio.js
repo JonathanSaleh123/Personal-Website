@@ -8,13 +8,13 @@ export default[
     {
         title: 'T-Prep Project - Trash Clasifier',
         imgUrl: 'src/assets/T-prep.png',
-        stack: ['Express','HTML','Tensorflow'],
+        stack: ['Express','Tensorflow', 'Javascript'],
         link: 'https://github.com/JonathanSaleh123',
     },
     {
-        title: 'Developer Portfolio',
-        imgUrl: 'src/assets/github.png',
-        stack: ['React','TailwindCSS','Javascript'],
-        link: 'https://github.com/JonathanSaleh123',
+        title: 'Polysphere Project',
+        imgUrl: 'src/assets/Polysphere.png',
+        stack: ['Node','MongoDB','Typescript'],
+        link: 'https://uttpic.com',
     },
 ]

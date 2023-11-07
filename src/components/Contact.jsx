@@ -15,27 +15,27 @@ function Contact() {
                     name="name"
                     placeholder="Name"
                     className="p-2 bg-transparent border-2 rounded-md
-                                focus:outline-none" 
+                                focus:outline-none border-stone-900 dark:border-white" 
                     />
                     <input 
                     type="text"
                     name="email"
                     placeholder="E-mail"
                     className="my-2 p-2 bg-transparent border-2 rounded-md
-                                focus:outline-none" 
+                                focus:outline-none border-stone-900 dark:border-white" 
                     />
                     <textarea
                         name="message"
                         placeholder="Message"
                         rows="10"
-                        className="mb-4 p-2 bg-transparent border-2 rounded-md
+                        className="mb-4 p-2 bg-transparent border-2 rounded-md border-stone-900 dark:border-white
                         focus:outline-none"
                     />
                     <button 
-                        type="button"
-                        className="text-center inline-block px-8 py-3 w-max text-base font-medium 
-                        rounded-md text-white bg-gradient-to-r 
-                        from-yellow-500 to-pink-500 drop-shadow-md
+                        type="submit"
+                        className="text-center inline-block px-8 py-3 w-max text-base font-medium border-stone-900 dark:border-white
+                        rounded-md text-white bg-gradient-to-r
+                        from-blue-500 to-purple-500 drop-shadow-md
                         hover:stroke-white"
                     >
                         Contact Me

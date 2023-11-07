@@ -50,7 +50,7 @@ function Footer() {
 				</div>
 
 			<p className="text-sm mt-2  opacity-50">
-				 {new Date().getFullYear()} Jonathan Saleh. Acta non verba.
+				 {new Date().getFullYear()} Jonathan Saleh. Semper Fidelis.
 			</p>
 		</div>
 	);

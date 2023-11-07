@@ -6,7 +6,11 @@ export default {
     extend: {
       fontFamily: {
         inter: ['inter', 'serif'],
-      }
+      },
+      backgroundImage: {
+        "hero-pattern": "url('/src/assets/herobg.png')",
+        "white-pattern": "url('/src/assets/light.jpg')",
+      },
     },
   },
   plugins: [],
